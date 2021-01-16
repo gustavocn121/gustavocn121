@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o <b>Gustavo<b></h1>
 <h2 align="center">Bem vindo ao meu perfil!!</h2>
-<h2 align="left">Atualmente estudo Engenharia de Software na PUC-MG.</h2>
+<h2 align="left">Atualmente curso Engenharia de Software na PUC-MG.</h2>
 
 <img img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
 
