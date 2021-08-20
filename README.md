@@ -3,7 +3,8 @@
 <h2 align="left">Atualmente curso Engenharia de Software na PUC-MG.</h2>
 
 <img img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
-
+ 
+ <h3> No momentou estou escutando 🎧: <h3>
 [![Spotify](https://novatorem-dusky-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/12181585950)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavocn121&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocn121" /> </p>
